@@ -4,6 +4,11 @@ An end-to-end data analytics project analyzing 3,900 customer transactions to un
 
 This project demonstrates the complete analytics workflow — from data cleaning (Python) to business querying (SQL) and interactive visualization (Power BI).
 
+## 📊 Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
+
 🚀 Business Problem
 
 How can a retail business:
